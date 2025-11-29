@@ -1,0 +1,11 @@
+# Cerberus Magic Mirror - Dependencies
+# Author: Sudeepa Wanigarathna
+
+# Computer Vision
+opencv-python>=4.5.0
+
+# Numerical Computing
+numpy>=1.19.0
+
+# Hand Tracking
+mediapipe>=0.8.9
