@@ -21,6 +21,10 @@
 
 </div>
 
+<img width="1920" height="1080" alt="mm" src="https://github.com/user-attachments/assets/28cee5fc-0166-4d66-ae07-aea8e2979131" />
+
+---
+
 ## 📖 Overview
 
 Cerberus Magic Mirror is a professional-grade computer vision application that brings magic to life through your webcam. Using advanced OpenCV algorithms, it provides three immersive AR experiences:
